@@ -3,9 +3,9 @@
 
 SOURCE="/mnt/backup/"
 DESTINATION="/mnt/meu_disco"
-TELEGRAM_BOT_TOKEN="7721964613:AAHd6Eweb488eGxTb0ToB68ikONnn1F4kH0"
-TELEGRAM_CHAT_ID="1033652131" # Seu ID de chat privado
-TELEGRAM_GROUP_CHAT_ID="-4637793629" # ID do chat do grupo
+TELEGRAM_BOT_TOKEN="SEU TOKEN AQUI"
+TELEGRAM_CHAT_ID="SEU ID AQUI" # Seu ID de chat privado
+TELEGRAM_GROUP_CHAT_ID="-SEU ID GRUPO AQUI " # ID do chat do grupo
 LOG_FILE="/var/log/backup.log"
 
 # Verifica se os diretórios existem
